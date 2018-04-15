@@ -1,0 +1,31 @@
+{
+  "name": "enchanted-sticker-book",
+  "version": "1.0.0",
+  "description": "An enchanted sticker book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triptych/enchanted-sticker-book.git"
+  },
+  "keywords": [
+    "enchanted",
+    "sticker",
+    "book",
+    "express",
+    "rpg"
+  ],
+  "author": "Andrew Wooldridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/triptych/enchanted-sticker-book/issues"
+  },
+  "homepage": "https://github.com/triptych/enchanted-sticker-book#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.14"
+  }
+}
